@@ -1,0 +1,1152 @@
+antecedent,consequent,confidence
+"[' soda', ' eggs']",[' flour'],0.910157233835858
+"[' soda', ' salt']",[' flour'],0.8864585658259733
+[' soda'],[' flour'],0.8652257869390224
+"[' shortening', ' salt']",[' flour'],0.8495803909528196
+"[' baking soda', ' cinnamon']",[' flour'],0.843564783217788
+"['baking powder', ' salt']",[' flour'],0.8310132101676302
+"['egg', ' sugar', ' salt']",[' flour'],0.8296724470134875
+[' shortening'],[' flour'],0.8259009645264135
+"['sugar', ' vanilla', ' flour', ' salt']",[' eggs'],0.8255105038930513
+"[' pepper', ' butter']",[' salt'],0.8253402462734932
+"[' baking soda', ' sugar', ' salt']",[' flour'],0.824322095790044
+"[' baking soda', ' sugar', ' eggs']",[' flour'],0.8218968679937496
+"['baking powder', ' eggs']",[' flour'],0.8211320754716981
+"[' baking soda', ' eggs', ' salt']",[' flour'],0.8167810536491058
+"[' baking soda', ' vanilla', ' eggs', ' salt']",[' flour'],0.8164958516349439
+"[' baking powder', ' sugar', ' salt']",[' flour'],0.815119385540157
+"[' baking soda', ' vanilla', ' eggs']",[' flour'],0.8125393221544438
+"[' shortening', ' flour']",[' salt'],0.8112631321768874
+"[' baking soda', ' sugar']",[' flour'],0.810589249362701
+"[' baking soda', ' eggs']",[' flour'],0.8096568832566202
+"[' pepper', ' onion']",[' salt'],0.8079652996845426
+"[' baking powder', ' baking soda', ' flour']",[' salt'],0.8077173347214992
+"[' baking powder', ' milk', ' salt']",[' flour'],0.8065449402083066
+['baking powder'],[' flour'],0.8065028696105867
+"[' baking powder', ' sugar']",[' flour'],0.8052636684018235
+"[' baking soda', ' vanilla', ' sugar']",[' flour'],0.8042961049554755
+"[' baking soda', ' brown sugar', ' salt']",[' flour'],0.803566942979151
+"[' baking powder', ' salt']",[' flour'],0.8030802957262854
+"[' baking powder', ' butter', ' salt']",[' flour'],0.8029500981383453
+"[' baking powder', ' baking soda']",[' salt'],0.8016201666752938
+"[' baking powder', ' baking soda', ' salt']",[' flour'],0.8015368223936977
+"[' baking powder', ' eggs', ' salt']",[' flour'],0.8011383692199082
+"[' baking soda', ' vanilla', ' salt']",[' flour'],0.7998979637105719
+"[' baking powder', ' butter']",[' flour'],0.7979941154994309
+"[' baking powder', ' vanilla', ' eggs']",[' flour'],0.7966435430614037
+"[' baking soda', ' eggs', ' butter']",[' flour'],0.7965489140063069
+"[' baking powder', ' milk']",[' flour'],0.7963539350822588
+"[' baking powder', ' baking soda']",[' flour'],0.795486308815156
+"[' nuts', ' eggs']",[' flour'],0.7953374467273074
+"[' baking powder', ' eggs']",[' flour'],0.7946234791187109
+"[' baking powder', ' vanilla', ' salt']",[' flour'],0.794113896610645
+"['sugar', ' vanilla', ' flour']",[' eggs'],0.7923195565192123
+[' baking powder'],[' flour'],0.7917940317160083
+"[' baking soda', ' sugar', ' flour']",[' salt'],0.7916468698386842
+"[' baking soda', ' salt']",[' flour'],0.7897548676596359
+[' shortening'],[' salt'],0.7886516808587917
+"[' baking soda', ' vanilla', ' eggs', ' flour']",[' salt'],0.78851333153784
+"[' baking soda', ' brown sugar']",[' flour'],0.786532482408771
+"[' baking soda', ' sugar', ' eggs']",[' salt'],0.7854473809362049
+"[' baking soda', ' vanilla', ' eggs']",[' salt'],0.7846923981727166
+"[' baking soda', ' vanilla']",[' flour'],0.784385285741085
+"[' baking powder', ' vanilla']",[' flour'],0.7843531756011685
+"[' baking soda', ' vanilla', ' flour']",[' salt'],0.7840370483106492
+"[' baking powder', ' sugar', ' flour']",[' salt'],0.7840279450734763
+"[' cinnamon', ' eggs', ' salt']",[' flour'],0.7834923635933946
+"[' baking soda', ' butter', ' salt']",[' flour'],0.7827653167478119
+"[' baking soda', ' eggs', ' flour']",[' salt'],0.7797855257572122
+"[' brown sugar', ' vanilla', ' salt']",[' flour'],0.7791037276638507
+"[' baking soda', ' sugar']",[' salt'],0.7784583784180314
+"[' baking powder', ' milk', ' flour']",[' salt'],0.7782740864817916
+"[' baking soda', ' vanilla', ' sugar']",[' salt'],0.7771395554347087
+"[' baking soda', ' brown sugar', ' flour']",[' salt'],0.7764832345088248
+[' pepper'],[' salt'],0.77525474611351
+"[' baking powder', ' sugar']",[' salt'],0.7745481586860228
+"[' baking powder', ' sugar', ' eggs']",[' flour'],0.7739641311069883
+"[' baking soda', ' flour']",[' salt'],0.7730208084190385
+"[' baking soda', ' eggs']",[' salt'],0.7729840396915536
+[' baking soda'],[' flour'],0.7704975707823756
+"[' baking soda', ' vanilla']",[' salt'],0.7688319661647083
+"[' baking powder', ' milk']",[' salt'],0.7684402944518551
+"[' baking powder', ' vanilla', ' flour']",[' salt'],0.7680051302288872
+"[' baking soda', ' butter']",[' flour'],0.7672806333839275
+"[' baking powder', ' flour']",[' salt'],0.7657221469782124
+"[' baking powder', ' vanilla', ' eggs']",[' salt'],0.7641089333858411
+"[' pepper', ' garlic']",[' salt'],0.7634369782029875
+"[' baking soda', ' brown sugar']",[' salt'],0.7600229095074456
+"[' baking powder', ' vanilla']",[' salt'],0.7585653208488905
+['pepper'],[' salt'],0.7567034490111413
+"['baking powder', ' flour']",[' salt'],0.7565795277442879
+[' baking powder'],[' salt'],0.7549609038555722
+[' baking soda'],[' salt'],0.7541715530239571
+"[' brown sugar', ' eggs', ' salt']",[' flour'],0.7535379184343356
+"['egg', ' sugar']",[' flour'],0.7533368146214099
+"[' baking powder', ' eggs', ' flour']",[' salt'],0.7513915040658817
+"[' soda', ' flour']",[' salt'],0.7475665501478892
+"[' baking powder', ' eggs']",[' salt'],0.7452811575139756
+"['sugar', ' vanilla', ' eggs', ' salt']",[' flour'],0.7439020354128744
+"[' baking soda', ' flour', ' butter']",[' salt'],0.7435307955517536
+"[' cinnamon', ' eggs', ' flour']",[' salt'],0.742996414164052
+"['sugar', ' eggs', ' salt']",[' flour'],0.7428602317158868
+"[' vanilla', ' sugar', ' eggs', ' salt']",[' flour'],0.741779497098646
+"[' brown sugar', ' vanilla', ' flour']",[' salt'],0.7409210369131526
+['baking powder'],[' salt'],0.7342645733529384
+"[' vanilla', ' eggs', ' salt']",[' flour'],0.7341413932572655
+"[' milk', ' sugar', ' flour']",[' salt'],0.7317111959287532
+[' soda'],[' salt'],0.7296605634785845
+"[' baking soda', ' butter']",[' salt'],0.7288222504820118
+"[' vanilla', ' eggs', ' butter', ' salt']",[' flour'],0.7288030477540534
+"[' baking powder', ' flour', ' butter']",[' salt'],0.7266463923352262
+"[' water', ' flour']",[' salt'],0.7264257555847569
+"[' vanilla', ' sugar', ' salt']",[' flour'],0.7255108420255997
+"[' nuts', ' salt']",[' flour'],0.7246130891430912
+"[' sugar', ' eggs', ' salt']",[' flour'],0.7229276560924646
+"[' baking powder', ' butter']",[' salt'],0.7221613727637824
+"[' onion', ' flour']",[' salt'],0.720162167507169
+"['egg', ' sugar', ' flour']",[' salt'],0.716353352187656
+"[' cinnamon', ' eggs']",[' flour'],0.715078427051824
+"['egg', ' flour']",[' salt'],0.7132895455105742
+"['sugar', ' vanilla', ' salt']",[' eggs'],0.712685158977262
+"[' brown sugar', ' vanilla']",[' flour'],0.7084461746784022
+"['sugar', ' flour', ' salt']",[' eggs'],0.7064427690198767
+"[' cinnamon', ' flour']",[' salt'],0.7035940255999482
+"[' brown sugar', ' eggs', ' flour']",[' salt'],0.7017129015514159
+"['sugar', ' eggs', ' butter']",[' flour'],0.6970385720970653
+"[' vanilla', ' butter', ' salt']",[' flour'],0.6948342629765162
+"[' milk', ' sugar', ' salt']",[' flour'],0.6931304609822235
+"[' sugar', ' flour']",[' salt'],0.6930756780999552
+"['egg', ' butter']",[' flour'],0.6924794423569134
+"[' vanilla', ' sugar', ' flour']",[' salt'],0.692276295133438
+"[' brown sugar', ' eggs']",[' flour'],0.6890262075542928
+"[' sugar', ' butter', ' salt']",[' flour'],0.6879458161865569
+"[' sugar', ' eggs', ' flour']",[' salt'],0.6840366109943591
+"[' vanilla', ' sugar', ' eggs', ' flour']",[' salt'],0.6808699511762095
+"[' soda', ' flour']",[' eggs'],0.6801828448507663
+"[' cinnamon', ' eggs']",[' salt'],0.678118552054328
+[' all-purpose'],[' salt'],0.6776769341473039
+"[' vanilla', ' salt']",[' flour'],0.6762922233353471
+"[' cinnamon', ' vanilla']",[' flour'],0.6757368281860656
+"['sugar', ' vanilla', ' eggs']",[' flour'],0.6754964363303732
+"[' brown sugar', ' butter', ' salt']",[' flour'],0.6744118920479145
+"[' brown sugar', ' vanilla']",[' salt'],0.6737263033175356
+"[' brown sugar', ' flour']",[' salt'],0.6733339892891781
+"[' cinnamon', ' vanilla']",[' eggs'],0.6726514060709353
+['buttermilk'],[' flour'],0.6723426212590299
+"['baking powder', ' flour']",[' eggs'],0.6718616755373894
+"['sugar', ' eggs']",[' flour'],0.6712338571969039
+"['sugar', ' flour', ' butter']",[' eggs'],0.6702879917716636
+"['sugar', ' flour']",[' eggs'],0.6698229682159074
+"[' milk', ' flour']",[' salt'],0.6696390496497107
+"[' milk', ' eggs', ' flour']",[' salt'],0.6684857536764706
+"[' nuts', ' flour']",[' eggs'],0.6677614889583167
+"[' vanilla', ' eggs', ' flour']",[' salt'],0.6640290796886322
+"[' vanilla', ' flour']",[' salt'],0.6632019438444925
+"[' vanilla', ' sugar', ' eggs']",[' flour'],0.6630256028528398
+"[' nuts', ' flour']",[' salt'],0.6613794760874789
+[' black pepper'],[' salt'],0.6612689316414245
+['baking powder'],[' eggs'],0.6598918559977233
+"[' milk', ' flour', ' butter']",[' salt'],0.6598791159779148
+"[' vanilla', ' eggs', ' butter']",[' flour'],0.6580195770554238
+"[' cinnamon', ' vanilla']",[' salt'],0.6573418353853839
+"['sugar', ' butter', ' salt']",[' flour'],0.6573032248005612
+"[' cinnamon', ' salt']",[' flour'],0.6552139843279083
+"[' ground beef', ' salt']",[' onion'],0.6545616096764023
+"[' eggs', ' flour']",[' salt'],0.6544115724349285
+"[' vanilla', ' milk', ' flour']",[' salt'],0.6536143718047582
+"[' parsley', ' onion']",[' salt'],0.65253149790014
+"[' vanilla', ' eggs']",[' flour'],0.6524421397796164
+"[' sugar', ' flour', ' butter']",[' salt'],0.6516005391973755
+"['egg', ' salt']",[' flour'],0.6512798250691363
+"['sugar', ' vanilla', ' butter']",[' eggs'],0.6511999176022247
+[' paprika'],[' salt'],0.6506101045413292
+"['egg', ' sugar']",[' salt'],0.650443864229765
+[' flour'],[' salt'],0.6495828105670443
+"[' baking soda', ' vanilla', ' flour', ' salt']",[' eggs'],0.649510551565403
+"[' baking powder', ' vanilla', ' flour']",[' eggs'],0.6486286503551697
+"[' cinnamon', ' sugar']",[' flour'],0.6480808719001737
+[' soda'],[' eggs'],0.6466044715352581
+"[' baking soda', ' vanilla', ' flour']",[' eggs'],0.645823368265426
+"[' baking powder', ' vanilla', ' salt']",[' eggs'],0.6432888730203259
+"[' vanilla', ' flour', ' salt']",[' eggs'],0.6424339055114549
+"['sugar', ' vanilla', ' salt']",[' flour'],0.6422303990942542
+"[' brown sugar', ' flour', ' butter']",[' salt'],0.6419661501263875
+"[' brown sugar', ' eggs']",[' salt'],0.6416380218164478
+"[' vanilla', ' flour']",[' eggs'],0.6416336693064555
+"[' vanilla', ' sugar', ' butter']",[' flour'],0.6400982666848642
+"[' eggs', ' butter', ' salt']",[' flour'],0.638772734783106
+"[' baking powder', ' vanilla']",[' eggs'],0.6386218103731791
+"['egg', ' flour', ' salt']",[' sugar'],0.6378156861776977
+"[' baking soda', ' vanilla', ' salt']",[' eggs'],0.6363071735947828
+"['egg', ' flour']",[' sugar'],0.6350877810843649
+"['sugar', ' vanilla', ' eggs', ' flour']",[' salt'],0.6341195057270214
+"[' sugar', ' eggs']",[' flour'],0.6338167637909127
+[' cocoa'],[' vanilla'],0.6333635034463552
+"[' olive oil', ' onion']",[' garlic'],0.6315851341026194
+[' green pepper'],[' onion'],0.6309218574564711
+"[' vanilla', ' flour', ' butter', ' salt']",[' eggs'],0.6309088584941838
+"[' vanilla', ' flour', ' butter']",[' eggs'],0.6308128362797848
+"[' onion', ' eggs']",[' salt'],0.6302512637896257
+"[' sugar', ' eggs', ' butter']",[' flour'],0.6291356200986249
+"['sugar', ' eggs', ' flour']",[' salt'],0.6280352192060445
+"[' milk', ' onion']",[' salt'],0.6268886201029131
+"[' vanilla', ' eggs', ' flour', ' butter']",[' salt'],0.6264564770390678
+"[' vanilla', ' flour', ' butter']",[' salt'],0.6263611324622086
+"[' water', ' onion']",[' salt'],0.6236635470692203
+"[' baking soda', ' vanilla']",[' eggs'],0.6234459470982485
+"[' thyme', ' garlic']",[' salt'],0.6229604217220316
+"[' parsley', ' garlic']",[' salt'],0.6228847884788479
+"[' olive oil', ' onion']",[' salt'],0.6219853848715788
+"[' onion', ' butter']",[' salt'],0.6201157957244655
+"[' cinnamon', ' sugar']",[' salt'],0.6192431798181285
+[' nutmeg'],[' salt'],0.6187582354907861
+['potatoes'],[' salt'],0.6180419271408705
+"['sugar', ' butter', ' salt']",[' eggs'],0.6177273081620456
+"['sugar', ' vanilla']",[' eggs'],0.6166012549646307
+"[' flour', ' butter']",[' salt'],0.6152962995672525
+"[' tomatoes', ' garlic']",[' salt'],0.6149188881172427
+['egg'],[' salt'],0.6132941536094978
+"[' vanilla', ' sugar']",[' flour'],0.6123351405390857
+['buttermilk'],[' salt'],0.6122178848656167
+"['egg', ' butter']",[' salt'],0.6117464466590427
+"[' olive oil', ' garlic']",[' salt'],0.6109146892705937
+"[' cinnamon', ' flour', ' salt']",[' eggs'],0.6099816007359705
+"[' eggs', ' flour', ' butter']",[' salt'],0.6099715998737772
+[' oregano'],[' salt'],0.608898503883647
+"['sugar', ' vanilla', ' flour']",[' salt'],0.6086237342691732
+"[' vanilla', ' sugar', ' eggs']",[' salt'],0.6085827548600412
+"[' water', ' garlic']",[' salt'],0.6078341541633261
+[' oregano'],[' garlic'],0.6068393890423813
+"[' garlic', ' butter']",[' salt'],0.6065591933964878
+"[' milk', ' eggs', ' butter']",[' salt'],0.6052917173120334
+['buttermilk'],[' sugar'],0.6043209045631983
+"[' vanilla', ' butter', ' salt']",[' eggs'],0.6015028244573134
+"[' vanilla', ' sugar', ' flour']",[' eggs'],0.6012715855572999
+"[' baking soda', ' flour', ' butter']",[' eggs'],0.6009677074422584
+[' thyme'],[' salt'],0.6005064390102735
+"[' milk', ' eggs']",[' salt'],0.600408976041862
+"[' garlic', ' onion']",[' salt'],0.6001710171017102
+"[' sugar', ' eggs']",[' salt'],0.5997195811243045
+[' parsley'],[' salt'],0.5990435343682393
+"[' vanilla', ' butter']",[' flour'],0.598998599574117
+"[' ground beef', ' onion']",[' salt'],0.5965310973539169
+"[' milk', ' sugar']",[' salt'],0.5956874006461207
+"['sugar', ' flour']",[' salt'],0.5954798224580379
+"[' water', ' butter']",[' salt'],0.5954020044186865
+"[' baking soda', ' flour', ' salt']",[' eggs'],0.5941719171917191
+"[' vanilla', ' salt']",[' eggs'],0.5918111392366342
+"[' vanilla', ' sugar', ' flour', ' salt']",[' eggs'],0.5913646877409406
+"[' vanilla', ' eggs']",[' salt'],0.5901323064017997
+[' chili powder'],[' salt'],0.5892072879071183
+"[' baking soda', ' flour']",[' eggs'],0.5890174164510448
+[' olive oil'],[' salt'],0.5881450891192482
+"[' tomatoes', ' onion']",[' salt'],0.587920698977393
+"[' sugar', ' butter']",[' flour'],0.5875286259541985
+"[' vanilla', ' sugar', ' butter']",[' salt'],0.5861198307629316
+[' egg'],[' salt'],0.5861001806444386
+"[' vanilla', ' milk', ' salt']",[' flour'],0.5855636866076455
+"['sugar', ' vanilla', ' butter']",[' flour'],0.5855134411370893
+"[' milk', ' butter', ' salt']",[' flour'],0.5852121608903801
+"[' vanilla', ' sugar']",[' salt'],0.5842850001922559
+[' ground beef'],[' onion'],0.5829957664544818
+[' onions'],[' salt'],0.5797344321441598
+"[' celery', ' onion']",[' salt'],0.5790526184226972
+"[' baking soda', ' butter']",[' eggs'],0.5788858350084096
+"[' vanilla', ' sugar', ' salt']",[' eggs'],0.5783949195485506
+"[' cinnamon', ' flour']",[' eggs'],0.5776332184410247
+"['sugar', ' vanilla', ' eggs']",[' salt'],0.5758089720623547
+[' vegetable oil'],[' salt'],0.574971228421316
+"[' eggs', ' butter']",[' flour'],0.5748030946750103
+"[' vanilla', ' sugar', ' butter']",[' eggs'],0.5746781311132342
+"[' baking soda', ' salt']",[' eggs'],0.5745115679806293
+"[' vanilla', ' butter']",[' eggs'],0.5742321637539087
+"[' milk', ' eggs', ' butter']",[' flour'],0.5728859176940441
+"[' water', ' eggs']",[' salt'],0.5691523123727812
+[' basil'],[' salt'],0.568738229755179
+"[' brown sugar', ' butter']",[' flour'],0.5683322923173016
+"['sugar', ' eggs']",[' salt'],0.5674802400842545
+"[' eggs', ' salt']",[' flour'],0.5666825170391504
+"[' milk', ' butter']",[' salt'],0.5665087815544858
+['oil'],[' salt'],0.5661489790048893
+"[' vanilla', ' eggs', ' butter']",[' salt'],0.5656132028196305
+"[' sugar', ' eggs', ' butter']",[' salt'],0.5651597766819456
+"[' milk', ' sugar']",[' flour'],0.5642787549356443
+"[' sugar', ' salt']",[' flour'],0.5635931182113693
+"['sugar', ' eggs', ' butter']",[' vanilla'],0.563540343605856
+"[' water', ' sugar']",[' salt'],0.56217339391214
+[' baking soda'],[' eggs'],0.5605294019098677
+['egg'],[' flour'],0.5599775176752487
+"['sugar', ' butter']",[' flour'],0.5591995686298005
+['tomatoes'],[' salt'],0.559138799816766
+[' eggs'],[' salt'],0.556705475411324
+"[' brown sugar', ' salt']",[' flour'],0.5565909487015628
+"[' sugar', ' butter']",[' salt'],0.5564885496183206
+"[' baking powder', ' eggs', ' salt']",[' vanilla'],0.5564772326156018
+"[' vanilla', ' sugar']",[' eggs'],0.5553024185796132
+"[' baking soda', ' eggs', ' salt']",[' vanilla'],0.5545867568873852
+"[' baking soda', ' eggs', ' flour', ' salt']",[' vanilla'],0.5543931073660292
+"[' baking soda', ' butter']",[' vanilla'],0.5532879353488944
+"['sugar', ' salt']",[' flour'],0.5516015916673755
+[' garlic'],[' salt'],0.5511117902428775
+[' clove garlic'],[' salt'],0.5508240238911625
+[' tomato sauce'],[' onion'],0.5508196721311476
+[' red pepper'],[' garlic'],0.5507248936057497
+[' celery'],[' salt'],0.5493271157290023
+"[' eggs', ' butter']",[' salt'],0.5488862379048854
+"[' sugar', ' eggs', ' butter']",[' vanilla'],0.5488236699758868
+[' carrots'],[' salt'],0.5486838806718476
+"[' baking soda', ' eggs', ' flour']",[' vanilla'],0.5482567046272541
+"[' baking soda', ' sugar', ' flour']",[' eggs'],0.5474105748998846
+"[' baking soda', ' eggs']",[' vanilla'],0.5463117938908483
+"['sugar', ' eggs', ' flour', ' salt']",[' vanilla'],0.5451877364897643
+"[' baking soda', ' sugar', ' salt']",[' eggs'],0.5447263646429665
+"['sugar', ' eggs', ' salt']",[' vanilla'],0.5444242238598894
+"[' baking powder', ' eggs', ' flour']",[' vanilla'],0.5441453371681599
+"[' baking powder', ' flour', ' salt']",[' sugar'],0.5439200011141906
+"[' baking powder', ' butter']",[' eggs'],0.5438653007752937
+"[' baking powder', ' eggs']",[' vanilla'],0.5427655376520881
+[' unsalted butter'],[' salt'],0.5426990294528267
+[' vanilla'],[' flour'],0.5425229367129809
+[' onion'],[' salt'],0.5423376513195222
+"['sugar', ' flour', ' butter']",[' salt'],0.5420202279934859
+[' white wine'],[' salt'],0.54143672806326
+"[' brown sugar', ' butter']",[' salt'],0.5409900062460962
+"[' olive oil', ' salt']",[' garlic'],0.5408969512533384
+[' cinnamon'],[' salt'],0.5408577436549464
+[' tomatoes'],[' salt'],0.5407552300756184
+"[' vanilla', ' butter']",[' salt'],0.5399696894123966
+"['sugar', ' eggs', ' flour']",[' vanilla'],0.5399567376534747
+"[' baking soda', ' sugar']",[' eggs'],0.5398793258385753
+"[' baking powder', ' vanilla']",[' sugar'],0.5397651428681975
+"[' baking soda', ' sugar']",[' vanilla'],0.5395858932272085
+"[' baking soda', ' sugar', ' salt']",[' vanilla'],0.5386717553655146
+"[' thyme', ' salt']",[' garlic'],0.5381798028963157
+"['sugar', ' butter']",[' eggs'],0.5377389012042418
+"['sugar', ' eggs']",[' vanilla'],0.5365494534708943
+"[' baking powder', ' salt']",[' sugar'],0.5358864518438153
+"[' baking soda', ' sugar', ' flour']",[' vanilla'],0.53539672843277
+"[' baking powder', ' butter']",[' sugar'],0.5344801666559286
+[' vanilla'],[' eggs'],0.5335354069613687
+"[' brown sugar', ' vanilla']",[' butter'],0.5327310426540285
+[' cocoa'],[' flour'],0.53268815707025
+[' basil'],[' garlic'],0.5321466901565316
+[' vanilla'],[' salt'],0.5320218890493724
+[' raisins'],[' salt'],0.5313429641519529
+[' ground beef'],[' salt'],0.5313099625376907
+"[' baking powder', ' flour']",[' sugar'],0.5312203393445595
+"['sugar', ' eggs', ' butter']",[' salt'],0.529714553111839
+"[' sugar', ' eggs', ' flour']",[' vanilla'],0.5295459573056078
+"[' sugar', ' eggs', ' flour', ' salt']",[' vanilla'],0.5270944921677615
+[' tomato sauce'],[' salt'],0.5268781695954712
+[' nutmeg'],[' cinnamon'],0.5259307333766003
+"[' brown sugar', ' vanilla']",[' eggs'],0.5258124576844956
+"['sugar', ' vanilla']",[' flour'],0.5256868228713779
+"['sugar', ' salt']",[' eggs'],0.5245602593548265
+"[' celery', ' salt']",[' onion'],0.5233929925923535
+[' sugar'],[' salt'],0.522886564887184
+[' baking powder'],[' sugar'],0.5223346224646614
+[' olive oil'],[' garlic'],0.520737004996644
+[' ground cinnamon'],[' salt'],0.5200949801797559
+"[' milk', ' eggs', ' salt']",[' flour'],0.5192153246675987
+[' mustard'],[' salt'],0.5189965681659429
+[' thyme'],[' garlic'],0.5187816524381421
+"[' brown sugar', ' flour', ' salt']",[' vanilla'],0.5179007577813498
+"[' vanilla', ' milk']",[' salt'],0.517128680119087
+[' worcestershire sauce'],[' salt'],0.5170800981739037
+[' brown sugar'],[' salt'],0.5154765755081995
+"[' baking powder', ' flour']",[' eggs'],0.5154048779447366
+"[' baking soda', ' vanilla', ' flour']",[' sugar'],0.5145018915510718
+"[' sugar', ' eggs', ' salt']",[' vanilla'],0.5136987302190336
+[' baking powder'],[' eggs'],0.513569655312178
+[' chicken broth'],[' salt'],0.512959295929593
+"[' brown sugar', ' flour']",[' butter'],0.5115893341579636
+"[' cinnamon', ' salt']",[' eggs'],0.5101115129596142
+"['sugar', ' milk']",[' vanilla'],0.5092172478345021
+"['sugar', ' vanilla', ' flour']",[' butter'],0.5082817354762277
+"[' brown sugar', ' flour', ' salt']",[' eggs'],0.5079848861240424
+"[' tomatoes', ' salt']",[' garlic'],0.5077712588410017
+"[' brown sugar', ' eggs']",[' butter'],0.5073218224085517
+"[' baking soda', ' vanilla', ' salt']",[' sugar'],0.50718690386407
+"[' baking soda', ' flour', ' salt']",[' vanilla'],0.5071585283528353
+"[' baking powder', ' salt']",[' eggs'],0.5069849116959522
+[' green pepper'],[' salt'],0.506259112161279
+"[' sugar', ' eggs']",[' vanilla'],0.5062174122595627
+"[' baking powder', ' flour', ' salt']",[' eggs'],0.5057589727162575
+"[' milk', ' salt']",[' flour'],0.5056058968284998
+"[' milk', ' eggs', ' flour']",[' butter'],0.5053998161764706
+"['sugar', ' milk']",[' eggs'],0.5052511343084685
+"[' water', ' eggs']",[' flour'],0.5042570421764538
+[' cinnamon'],[' flour'],0.5036676610103183
+['buttermilk'],[' eggs'],0.5031632790415937
+"[' vanilla', ' milk']",[' eggs'],0.5027456169368177
+"[' milk', ' butter']",[' flour'],0.5024069108863459
+"[' baking soda', ' vanilla']",[' sugar'],0.501765097122977
+"[' baking soda', ' salt']",[' vanilla'],0.5007275110237357
+"['egg', ' salt']",[' sugar'],0.5006752845842176
+"[' baking powder', ' butter']",[' vanilla'],0.5005476451259584
+[' butter'],[' salt'],0.5005357919004289
+"[' baking soda', ' flour']",[' vanilla'],0.5000326150768629
+[' walnuts'],[' salt'],0.499961172587847
+[' water'],[' salt'],0.499254019836428
+"[' vanilla', ' flour', ' salt']",[' sugar'],0.4986543637062668
+"['sugar', ' vanilla']",[' salt'],0.4981786562007943
+[' nutmeg'],[' flour'],0.49796448168033514
+[' celery'],[' onion'],0.4965247610773241
+[' red pepper'],[' salt'],0.49622984689823235
+"[' milk', ' flour']",[' butter'],0.49513402375875726
+"[' brown sugar', ' eggs']",[' vanilla'],0.49379085616642493
+[' milk'],[' salt'],0.49276955506697795
+"[' baking soda', ' flour', ' salt']",[' sugar'],0.4920960846084608
+[' baking soda'],[' vanilla'],0.49117942703970513
+"[' eggs', ' flour', ' butter', ' salt']",[' vanilla'],0.49102630426996696
+[' nuts'],[' flour'],0.49054255848680933
+[' powdered sugar'],[' butter'],0.488839159787126
+"[' milk', ' flour', ' salt']",[' butter'],0.48791748638229643
+"[' brown sugar', ' flour', ' salt']",[' butter'],0.4877565079431351
+"[' brown sugar', ' flour']",[' eggs'],0.4874407882715095
+"['sugar', ' flour', ' butter']",[' vanilla'],0.48725036427530644
+"[' tomatoes', ' onion']",[' garlic'],0.48499392704619365
+[' eggs'],[' flour'],0.4820746963287163
+"['sugar', ' vanilla', ' eggs']",[' butter'],0.48195296718374814
+[' parmesan cheese'],[' salt'],0.4808267831149927
+"[' baking soda', ' flour']",[' sugar'],0.4805179274205823
+[' lemon'],[' salt'],0.4801788092067719
+"[' baking powder', ' eggs']",[' sugar'],0.4785596843143703
+"[' eggs', ' flour', ' butter']",[' vanilla'],0.4781052018350851
+"[' vanilla', ' flour']",[' sugar'],0.4777117830573554
+"['sugar', ' eggs', ' flour']",[' butter'],0.4765103738232337
+"['sugar', ' flour']",[' butter'],0.4761797867455742
+"[' butter', ' salt']",[' flour'],0.4739493713435082
+['egg'],[' sugar'],0.4720795164328045
+"[' baking soda', ' salt']",[' sugar'],0.4714604644963513
+"[' brown sugar', ' flour']",[' vanilla'],0.47065768944239067
+"[' baking powder', ' sugar']",[' eggs'],0.4705292767305765
+"[' sugar', ' flour', ' butter']",[' eggs'],0.4703522647913858
+"[' sugar', ' flour']",[' eggs'],0.4701233027188997
+"['sugar', ' milk']",[' salt'],0.4699685883808738
+"[' vanilla', ' flour']",[' butter'],0.4683225341972642
+"[' brown sugar', ' flour', ' salt']",[' baking soda'],0.46746550320439223
+"['sugar', ' flour', ' salt']",[' vanilla'],0.46655243317340644
+"[' milk', ' eggs']",[' flour'],0.4663398430174931
+"[' baking powder', ' eggs', ' flour']",[' sugar'],0.46611765192741417
+"['sugar', ' butter']",[' vanilla'],0.46535258522557066
+[' lemon juice'],[' salt'],0.46531789713418104
+"[' vanilla', ' salt']",[' sugar'],0.46482567698813887
+"[' cinnamon', ' flour']",[' sugar'],0.4647636616664239
+[' shortening'],[' eggs'],0.46428427297308206
+"[' baking soda', ' butter']",[' sugar'],0.464126020429093
+"[' sugar', ' flour', ' salt']",[' eggs'],0.46399197216517085
+[' rice'],[' salt'],0.4638212534943078
+[' mushrooms'],[' salt'],0.4634216451875629
+"[' vanilla', ' milk']",[' flour'],0.4632881243797552
+"[' vanilla', ' milk']",[' butter'],0.46291763149189546
+"['sugar', ' butter']",[' salt'],0.46112276076927683
+"[' vanilla', ' eggs', ' flour']",[' butter'],0.460424507351738
+"[' baking soda', ' vanilla']",[' butter'],0.46003376707539606
+"['sugar', ' milk']",[' flour'],0.4592759463146873
+"[' vanilla', ' eggs', ' flour', ' salt']",[' sugar'],0.4590146621371869
+"['sugar', ' eggs']",[' butter'],0.45886972259430053
+[' cornstarch'],[' salt'],0.45878987604342664
+"[' cinnamon', ' eggs']",[' vanilla'],0.4585628718524009
+[' chicken'],[' salt'],0.45856023254102585
+"[' vanilla', ' butter', ' salt']",[' sugar'],0.4577219597115145
+"[' sugar', ' flour', ' butter']",[' vanilla'],0.45701849836779107
+[' baking soda'],[' sugar'],0.4567515496733121
+"[' vanilla', ' eggs']",[' butter'],0.4565219049071568
+"['sugar', ' flour']",[' vanilla'],0.4564767103719198
+"['sugar', ' vanilla']",[' butter'],0.456346501844845
+"[' vanilla', ' eggs', ' salt']",[' sugar'],0.45428818793854264
+"[' eggs', ' flour', ' salt']",[' vanilla'],0.45402455007512066
+"['sugar', ' milk']",[' butter'],0.4535806072913031
+[' black pepper'],[' garlic'],0.4530167826442898
+"[' baking powder', ' sugar', ' flour']",[' eggs'],0.45224042399421827
+"[' baking powder', ' sugar']",[' vanilla'],0.4510491771476608
+"[' baking powder', ' vanilla']",[' butter'],0.4508908707511946
+[' nutmeg'],[' eggs'],0.4507443900328436
+"[' vanilla', ' flour', ' butter']",[' sugar'],0.45061491160645656
+[' soy sauce'],[' garlic'],0.44915478694399
+"['egg', ' flour']",[' butter'],0.44783320713518465
+[' nuts'],[' salt'],0.44773519163763065
+"[' vanilla', ' eggs', ' flour']",[' sugar'],0.4476612356530073
+"[' eggs', ' flour']",[' vanilla'],0.4474486567335903
+"[' baking soda', ' eggs', ' salt']",[' sugar'],0.4470178830352827
+"[' baking soda', ' eggs', ' flour']",[' sugar'],0.4465752413296665
+[' tomatoes'],[' garlic'],0.4465303785692135
+"[' sugar', ' butter', ' salt']",[' eggs'],0.44609053497942386
+"[' vanilla', ' flour', ' salt']",[' butter'],0.44230725738969173
+"[' sugar', ' butter', ' salt']",[' vanilla'],0.441820987654321
+"[' vanilla', ' sugar', ' flour']",[' butter'],0.44175824175824174
+"[' tomatoes', ' salt']",[' onion'],0.4412928080932845
+"[' tomatoes', ' garlic']",[' onion'],0.4408533219367131
+"[' vanilla', ' eggs']",[' sugar'],0.44051549929462
+"[' baking soda', ' eggs']",[' sugar'],0.4399246816904776
+"[' sugar', ' butter']",[' eggs'],0.43924618320610687
+['sugar'],[' salt'],0.43916865909543734
+"[' baking powder', ' salt']",[' vanilla'],0.43856744997595265
+"[' parsley', ' salt']",[' garlic'],0.4384622695305075
+"[' vanilla', ' eggs', ' salt']",[' butter'],0.43755411115562043
+"[' vanilla', ' sugar', ' eggs']",[' butter'],0.4373431197742656
+"[' pepper', ' salt']",[' onion'],0.43692053121348334
+[' baking powder'],[' vanilla'],0.436483542465337
+"[' vanilla', ' eggs', ' flour', ' salt']",[' butter'],0.4343724147642265
+"[' baking powder', ' flour', ' salt']",[' vanilla'],0.4336708402389939
+"['sugar', ' flour', ' salt']",[' butter'],0.43343043180260454
+"[' baking powder', ' flour']",[' vanilla'],0.43238170397466114
+"[' eggs', ' flour']",[' butter'],0.4309016646357727
+"[' vanilla', ' salt']",[' butter'],0.4305040416631616
+"[' eggs', ' butter', ' salt']",[' vanilla'],0.4303689675771171
+"['sugar', ' eggs', ' salt']",[' butter'],0.4283320420187751
+"[' flour', ' butter']",[' eggs'],0.4280407915175255
+[' brown sugar'],[' flour'],0.4261029455804315
+[' sugar'],[' flour'],0.4251992659495672
+"[' vanilla', ' milk']",['sugar'],0.42471716837578566
+"[' flour', ' butter', ' salt']",[' eggs'],0.4243365783230186
+[' vanilla'],[' butter'],0.4241674634334886
+"[' vanilla', ' sugar', ' salt']",[' butter'],0.42392484617156395
+[' vanilla'],[' sugar'],0.4232479606159855
+"[' vanilla', ' sugar']",[' butter'],0.42259776214096206
+"[' flour', ' salt']",[' eggs'],0.42252912375485396
+"[' vanilla', ' eggs', ' butter']",['sugar'],0.4224434570540875
+[' flour'],[' butter'],0.4222145696061486
+"[' vanilla', ' eggs', ' butter']",[' sugar'],0.4220091537767681
+"[' baking soda', ' eggs']",[' butter'],0.4217675892163309
+"[' vanilla', ' butter']",[' sugar'],0.4216816620945
+[' parsley'],[' garlic'],0.42167988765324327
+"[' milk', ' salt']",[' butter'],0.42154619258986686
+"[' sugar', ' butter']",[' vanilla'],0.4194847328244275
+[' flour'],[' eggs'],0.4194113724698843
+[' egg'],[' flour'],0.4193611628460601
+[' pepper'],[' onion'],0.41923176110402105
+"[' eggs', ' butter']",[' vanilla'],0.4176416009152871
+[' paprika'],[' garlic'],0.41720730108575077
+"[' milk', ' sugar']",[' butter'],0.41649146197630893
+"[' baking powder', ' eggs']",[' butter'],0.4163761920420914
+"[' baking soda', ' sugar']",[' butter'],0.41498707062556167
+"[' baking soda', ' eggs', ' flour']",[' butter'],0.41493936765167316
+"[' milk', ' eggs', ' salt']",[' butter'],0.4147505874654213
+"[' water', ' butter']",[' flour'],0.4144279722071019
+"[' vanilla', ' eggs', ' flour']",['sugar'],0.4142920591879193
+"[' sugar', ' flour']",[' vanilla'],0.414042340216706
+[' honey'],[' salt'],0.41361711999072087
+"[' sugar', ' flour', ' salt']",[' vanilla'],0.4135647900664922
+"[' cinnamon', ' salt']",[' sugar'],0.4135473176612417
+"[' vanilla', ' eggs', ' flour', ' salt']",[' baking soda'],0.4122647985496277
+[' nuts'],[' eggs'],0.41185716905504177
+"[' milk', ' eggs']",[' butter'],0.4114048952110513
+[' worcestershire sauce'],[' onion'],0.4111418118950959
+[' baking soda'],[' butter'],0.40839336572290164
+"[' vanilla', ' flour', ' salt']",[' baking soda'],0.4077730284732117
+[' cinnamon'],[' eggs'],0.40685771105351526
+['sugar'],[' flour'],0.40680829514511524
+"[' baking soda', ' flour']",[' butter'],0.4066882650953447
+[' cheddar cheese'],[' salt'],0.4061977193623445
+['sugar'],[' eggs'],0.4059532111310354
+"[' milk', ' flour', ' butter']",[' eggs'],0.40593039171959827
+[' tomatoes'],[' onion'],0.4058904447253962
+"[' brown sugar', ' flour']",[' baking soda'],0.40536665589024923
+[' chicken broth'],[' onion'],0.40484048404840484
+[' chicken broth'],[' garlic'],0.4036963696369637
+[' kosher salt'],[' garlic'],0.4035299441846432
+"[' sugar', ' eggs']",[' butter'],0.4033913157779433
+"[' brown sugar', ' salt']",[' butter'],0.402544588392494
+"[' baking powder', ' sugar']",[' butter'],0.40232467910375375
+"[' eggs', ' flour', ' salt']",[' butter'],0.40163986829907616
+"['sugar', ' salt']",[' vanilla'],0.4007145490118241
+"[' sugar', ' eggs', ' flour']",[' butter'],0.40041201194558124
+"[' sugar', ' flour']",[' butter'],0.4002170959837243
+"[' vanilla', ' eggs']",['sugar'],0.40015251458420714
+"[' flour', ' salt']",[' butter'],0.39992908998818166
+"[' brown sugar', ' butter']",[' eggs'],0.39870393504059964
+[' mushrooms'],[' onion'],0.3986330027627397
+[' unsalted butter'],[' flour'],0.39794116162890447
+"[' milk', ' flour']",[' eggs'],0.3976850441669205
+"[' milk', ' flour', ' salt']",[' eggs'],0.39700012508955274
+"[' baking powder', ' flour']",[' butter'],0.3962610244323817
+"[' vanilla', ' eggs', ' flour', ' salt']",['sugar'],0.39563128157287947
+"[' eggs', ' flour', ' salt']",[' sugar'],0.39538247610523286
+"[' milk', ' sugar']",[' eggs'],0.3952617814471053
+['potatoes'],[' onion'],0.39494171009708484
+"[' vanilla', ' milk']",[' sugar'],0.39490572279192854
+"[' baking soda', ' salt']",[' butter'],0.39466640009774195
+[' pecans'],[' butter'],0.3939228829559422
+[' baking powder'],[' butter'],0.39318224038640165
+"[' brown sugar', ' butter']",[' vanilla'],0.3931761399125547
+"[' baking soda', ' flour', ' salt']",[' butter'],0.39117349234923493
+"[' vanilla', ' eggs', ' salt']",['sugar'],0.3904402548231615
+[' parmesan cheese'],[' garlic'],0.38889082969432315
+['oil'],[' flour'],0.38702904802991084
+"[' milk', ' salt']",[' eggs'],0.3865941445688922
+['sour cream'],[' salt'],0.3856589687160487
+[' butter'],[' flour'],0.38555184562783795
+"[' water', ' sugar']",[' flour'],0.38536804726387447
+"[' water', ' garlic']",[' onion'],0.38367393687517387
+[' brown sugar'],[' butter'],0.3835603310933027
+"[' milk', ' sugar']",[' vanilla'],0.3826085841751705
+[' pecans'],[' eggs'],0.38045337624653125
+"[' milk', ' butter', ' salt']",[' eggs'],0.38036198971589125
+"[' sugar', ' eggs', ' salt']",[' butter'],0.380145243070269
+"[' cinnamon', ' flour']",[' baking soda'],0.38001844749745134
+"[' eggs', ' flour', ' butter']",['sugar'],0.3796514309294366
+[' margarine'],[' salt'],0.3791402908080322
+"[' eggs', ' flour']",[' sugar'],0.37825880039537063
+[' margarine'],[' flour'],0.3776145022568956
+"['sugar', ' vanilla']",[' milk'],0.3771709243026016
+"[' sugar', ' flour', ' salt']",[' butter'],0.3762672443706684
+"[' vanilla', ' sugar', ' salt']",[' baking soda'],0.37618044815899443
+"[' baking powder', ' salt']",[' butter'],0.37610030534521904
+['oil'],[' sugar'],0.37607132585562264
+"[' baking powder', ' flour', ' salt']",[' butter'],0.3760393309285386
+"[' brown sugar', ' salt']",[' eggs'],0.3752164062046128
+"[' vanilla', ' butter']",['sugar'],0.3725132848619717
+"[' cinnamon', ' flour']",[' vanilla'],0.37212162402705634
+[' milk'],[' flour'],0.372061923434348
+"[' vanilla', ' sugar', ' flour']",[' baking soda'],0.3714913657770801
+"[' vanilla', ' eggs', ' salt']",[' baking soda'],0.37068241435900084
+"[' brown sugar', ' salt']",[' vanilla'],0.36998779991866615
+[' carrots'],[' onion'],0.3698420656806217
+[' mayonnaise'],[' salt'],0.36761058061683677
+[' milk'],[' butter'],0.3666759219383939
+"[' sugar', ' flour', ' salt']",[' baking powder'],0.3662605857693498
+"[' milk', ' flour', ' salt']",[' sugar'],0.36625083866859226
+"[' vanilla', ' flour', ' butter']",['sugar'],0.36412695362541636
+"['sugar', ' salt']",[' butter'],0.36373002145537375
+"[' flour', ' butter', ' salt']",[' milk'],0.3622624304494297
+['oil'],[' eggs'],0.3622519413287317
+['egg'],[' butter'],0.36214292053287056
+"[' sugar', ' salt']",[' eggs'],0.3617273183752213
+[' eggs'],[' butter'],0.3613877361677667
+"['egg', ' salt']",[' butter'],0.3612290179432761
+[' cinnamon'],[' sugar'],0.3611994066539521
+[' pecans'],[' flour'],0.36045819131007745
+[' cheddar cheese'],[' onion'],0.36015229890583234
+"[' flour', ' salt']",[' sugar'],0.36005065000844166
+[' pecans'],[' salt'],0.359799287877444
+"[' eggs', ' salt']",[' butter'],0.35631184475692323
+"[' milk', ' butter']",[' eggs'],0.3559910059573942
+[' egg'],[' sugar'],0.35532340955875147
+"[' eggs', ' butter', ' salt']",[' milk'],0.3544401936984456
+"[' parsley', ' salt']",[' onion'],0.35440030412469115
+['sugar'],[' vanilla'],0.35324931925350334
+"[' vanilla', ' flour', ' salt']",[' baking powder'],0.35210439423751044
+"[' eggs', ' flour', ' butter']",[' sugar'],0.35149404082821567
+"[' eggs', ' salt']",[' vanilla'],0.35046079297149196
+"[' baking powder', ' flour', ' salt']",[' milk'],0.3494380301110012
+"[' baking soda', ' flour', ' salt']",[' baking powder'],0.3491505400540054
+"[' baking powder', ' salt']",[' milk'],0.34793696243023475
+"[' vanilla', ' eggs', ' flour']",[' baking soda'],0.3471796909698684
+"[' baking powder', ' salt']",[' baking soda'],0.34642701354480077
+['sugar'],[' butter'],0.34641279803413694
+[' vanilla'],['sugar'],0.3462457025449071
+"[' baking powder', ' flour', ' salt']",[' baking soda'],0.34576120109747777
+"[' vanilla', ' flour']",[' baking soda'],0.3449274058075354
+"[' vanilla', ' salt']",[' baking soda'],0.34476113273632447
+"[' baking soda', ' salt']",[' baking powder'],0.344018304399498
+"[' baking powder', ' flour']",[' milk'],0.3438023227292602
+"[' eggs', ' flour']",['sugar'],0.3433134776401186
+"['sugar', ' butter']",[' milk'],0.34259181594871485
+[' nuts'],[' vanilla'],0.34240653899557255
+[' baking powder'],[' milk'],0.3418337189468529
+"[' water', ' flour']",[' butter'],0.34015768725361367
+"[' water', ' onion']",[' garlic'],0.33971257207429084
+"[' milk', ' eggs']",[' vanilla'],0.3392804521953441
+"[' flour', ' butter', ' salt']",[' sugar'],0.33874821638142844
+"[' garlic', ' salt']",[' olive oil'],0.3379280296278692
+"[' sugar', ' eggs', ' salt']",[' baking soda'],0.3378581761327937
+"[' flour', ' butter']",[' milk'],0.3377872212207324
+"[' eggs', ' flour', ' salt']",[' baking soda'],0.33762746539654126
+[' flour'],[' sugar'],0.33745624117146444
+"[' cinnamon', ' salt']",[' vanilla'],0.3371006630500301
+"[' vanilla', ' butter']",[' milk'],0.3355746542099104
+"[' vanilla', ' flour']",['sugar'],0.33550065994720424
+"[' milk', ' flour']",[' sugar'],0.335181236673774
+"[' sugar', ' eggs', ' flour']",[' baking soda'],0.33451775246101095
+"[' water', ' salt']",[' flour'],0.3344141506409287
+"[' baking soda', ' flour']",[' baking powder'],0.33415233415233414
+"[' eggs', ' butter', ' salt']",[' sugar'],0.33066002364036146
+[' eggs'],[' vanilla'],0.33060966201600417
+"[' flour', ' butter', ' salt']",[' vanilla'],0.3302543925565059
+"[' garlic', ' salt']",[' onion'],0.3301398213613768
+"[' eggs', ' flour', ' salt']",['sugar'],0.3294760732666304
+"[' sugar', ' flour', ' salt']",[' baking soda'],0.3281471269542057
+"[' baking powder', ' flour']",[' baking soda'],0.32778423572822574
+[' thyme'],[' onion'],0.32688467660251774
+"[' water', ' flour']",[' sugar'],0.32657030223390277
+[' baking powder'],[' baking soda'],0.3262628139091078
+"[' onion', ' salt']",[' garlic'],0.3259630426280798
+"[' vanilla', ' eggs', ' salt']",[' baking powder'],0.3259462183570884
+"['sugar', ' eggs']",[' milk'],0.3256475015081954
+[' parsley'],[' onion'],0.32535013474019814
+"[' flour', ' butter']",[' vanilla'],0.32442036251045503
+"[' vanilla', ' salt']",['sugar'],0.32422015401910326
+"[' brown sugar', ' salt']",[' baking soda'],0.32379015860105737
+"[' sugar', ' flour']",[' baking powder'],0.323772010217811
+[' baking soda'],[' baking powder'],0.3236555536940861
+"[' eggs', ' butter']",[' milk'],0.3214108815917066
+"[' sugar', ' salt']",[' vanilla'],0.3212664182457253
+"[' eggs', ' butter']",[' sugar'],0.321138806917673
+"[' eggs', ' flour', ' butter']",[' milk'],0.3203388596257009
+"[' flour', ' butter']",[' sugar'],0.3198746954403063
+[' onions'],[' garlic'],0.3179223800557949
+[' milk'],[' eggs'],0.3172867698723906
+[' chicken'],[' garlic'],0.3161472514533814
+[' sugar'],[' eggs'],0.31538465790375536
+[' pecans'],[' vanilla'],0.3149938544583687
+"[' baking soda', ' flour', ' salt']",[' brown sugar'],0.31493305580558056
+"[' butter', ' salt']",[' eggs'],0.3148444565382676
+"[' baking soda', ' flour']",[' brown sugar'],0.3135287338827162
+"[' eggs', ' butter']",['sugar'],0.313074234528369
+[' salt'],[' flour'],0.3128823207490159
+"[' sugar', ' eggs', ' flour']",[' baking powder'],0.31145614423183277
+[' cinnamon'],[' butter'],0.31052048184915315
+"[' sugar', ' butter']",[' milk'],0.31
+"[' eggs', ' salt']",[' sugar'],0.30992912619160834
+"[' baking soda', ' salt']",[' brown sugar'],0.3095198427243344
+"[' sugar', ' salt']",[' butter'],0.3082533893601839
+"[' vanilla', ' flour', ' salt']",['sugar'],0.30789063030056313
+[' vanilla'],[' milk'],0.30748418333096
+"[' vanilla', ' eggs', ' flour']",[' baking powder'],0.3073704387666846
+[' baking soda'],[' brown sugar'],0.3071368738482158
+[' garlic'],[' olive oil'],0.30484800030560927
+"[' eggs', ' salt']",[' milk'],0.3044992414464597
+"[' vanilla', ' flour']",[' baking powder'],0.3040556755459563
+[' carrots'],[' garlic'],0.30317122085735776
+[' garlic'],[' onion'],0.3031535059116298
+"[' water', ' flour']",[' eggs'],0.3027463863337714
+"[' eggs', ' butter', ' salt']",['sugar'],0.3021390714167694
+"[' sugar', ' flour', ' salt']",[' milk'],0.30204728544767373
+[' brown sugar'],[' eggs'],0.30143984858830153
+['egg'],[' milk'],0.3008194215731711
+"[' vanilla', ' salt']",[' baking powder'],0.29986311112470654
+"[' vanilla', ' salt']",[' milk'],0.29887659353180945
+"[' flour', ' salt']",[' vanilla'],0.2986121897686983
+"[' flour', ' salt']",[' milk'],0.29693398615566435
+[' nuts'],[' butter'],0.296756700112651
+"['sugar', ' flour']",[' milk'],0.29539309218917403
+[' onion'],[' garlic'],0.29455276232694033
+"[' butter', ' salt']",[' milk'],0.29338770218249044
+[' chicken'],[' onion'],0.29315990874972403
+[' pepper'],[' garlic'],0.2930522584953944
+[' vegetable oil'],[' flour'],0.2926494871153365
+[' flour'],[' vanilla'],0.2924800617668477
+"[' eggs', ' flour', ' salt']",[' baking powder'],0.29020554294664835
+"[' garlic', ' onion']",[' olive oil'],0.29017101710171017
+"[' vanilla', ' eggs']",[' milk'],0.28973958134746636
+[' sugar'],[' butter'],0.28964038161778527
+[' margarine'],[' eggs'],0.2892186691127721
+"[' pepper', ' salt']",[' garlic'],0.28858505130457773
+"[' olive oil', ' garlic']",[' onion'],0.28855810456404796
+[' flour'],[' milk'],0.2880405695886012
+[' eggs'],[' sugar'],0.2876998633542252
+[' sugar'],[' vanilla'],0.2875067711730435
+"[' sugar', ' flour']",[' baking soda'],0.2872881851685744
+[' butter'],[' eggs'],0.28711034909596383
+"[' vanilla', ' sugar']",[' milk'],0.2868939131772215
+"[' sugar', ' flour']",[' milk'],0.2860987071739173
+"[' milk', ' flour', ' salt']",[' baking powder'],0.2853178980406427
+"[' milk', ' eggs']",['sugar'],0.2843901524284069
+"[' eggs', ' flour']",[' baking soda'],0.2833437057103858
+[' brown sugar'],[' vanilla'],0.28308237802613767
+"[' vanilla', ' sugar']",[' baking soda'],0.2828277002345522
+[' eggs'],[' milk'],0.2823348779516244
+[' vegetable oil'],[' garlic'],0.28089066800100077
+"[' vanilla', ' flour', ' salt']",[' brown sugar'],0.2805368975733315
+"['sugar', ' salt']",[' milk'],0.2799973535221784
+"[' eggs', ' flour', ' salt']",[' milk'],0.27899338298756515
+"[' vanilla', ' eggs']",[' baking soda'],0.2787737827429748
+[' cinnamon'],[' vanilla'],0.2773648263158753
+"[' milk', ' eggs']",[' sugar'],0.2753176708010751
+[' margarine'],[' milk'],0.27473275995168334
+"[' eggs', ' flour']",[' milk'],0.27311950547295427
+"[' eggs', ' flour', ' butter']",[' baking soda'],0.27284753744204676
+"[' milk', ' butter']",[' vanilla'],0.27032352282122407
+"[' sugar', ' eggs']",[' milk'],0.27018358673268195
+"[' vanilla', ' sugar']",[' baking powder'],0.2682066366747414
+[' parmesan cheese'],[' onion'],0.268098981077147
+['egg'],[' vanilla'],0.26765799256505574
+[' parsley'],[' olive oil'],0.2673454283220101
+"[' milk', ' salt']",[' sugar'],0.2671626687518686
+"[' milk', ' flour']",[' vanilla'],0.26662351507767285
+[' cheddar cheese'],[' milk'],0.26522508316827875
+[' cream cheese'],[' butter'],0.2640729668617305
+[' salt'],[' butter'],0.2640171068395663
+"[' vanilla', ' flour']",[' milk'],0.26257649388048954
+['sugar'],[' milk'],0.2616474065218835
+"[' water', ' salt']",[' onion'],0.2604184940746611
+"[' milk', ' flour', ' salt']",[' vanilla'],0.260243128603432
+[' parmesan cheese'],[' butter'],0.26018049490538575
+[' butter'],[' milk'],0.25922112882840836
+"[' vanilla', ' flour', ' salt']",[' milk'],0.25878055951330936
+"[' vanilla', ' butter']",[' baking soda'],0.25874306981027106
+"[' sugar', ' eggs']",[' baking soda'],0.25796783946019364
+[' mayonnaise'],[' onion'],0.2560311711118428
+"[' baking soda', ' flour']",[' cinnamon'],0.2553108216825031
+"[' sugar', ' eggs']",[' baking powder'],0.2550584936248521
+"[' sugar', ' salt']",[' baking powder'],0.25324136472951186
+"[' eggs', ' flour']",[' baking powder'],0.25274955154722745
+[' cinnamon'],['sugar'],0.252326927152102
+"[' vanilla', ' eggs']",[' baking powder'],0.2517329469630533
+"[' olive oil', ' salt']",[' onion'],0.2516028308092215
+"[' eggs', ' salt']",['sugar'],0.2513370921359509
+"[' vanilla', ' flour']",[' brown sugar'],0.2511099112071034
+"[' milk', ' butter']",[' sugar'],0.25102960152682374
+"[' onion', ' salt']",[' pepper'],0.2504155260070395
+[' tomatoes'],[' olive oil'],0.24878541383395752
+[' parsley'],[' butter'],0.2470110449007477
+[' eggs'],['sugar'],0.2465649470812765
+['egg'],[' baking powder'],0.2459645213138355
+"[' sugar', ' salt']",[' milk'],0.24559845661883242
+[' vegetable oil'],[' eggs'],0.24558418814110583
+"[' milk', ' flour']",[' baking powder'],0.24549192811452938
+"[' vanilla', ' salt']",[' brown sugar'],0.24351689698156206
+"[' flour', ' salt']",[' baking powder'],0.2424480837413473
+"[' flour', ' butter']",['sugar'],0.24244250380537272
+"[' sugar', ' flour', ' salt']",['egg'],0.24229806150296823
+"[' vanilla', ' butter']",[' brown sugar'],0.24151591305849177
+"[' flour', ' salt']",[' baking soda'],0.24009454668242444
+[' vanilla'],[' baking soda'],0.2385702951766788
+[' cheddar cheese'],[' butter'],0.2382170259408111
+[' olive oil'],[' onion'],0.23791390111119398
+"[' sugar', ' butter']",[' baking powder'],0.23747137404580151
+"[' flour', ' butter', ' salt']",[' baking soda'],0.23483818674591983
+[' cinnamon'],[' brown sugar'],0.2345183953575562
+"[' sugar', ' flour']",['egg'],0.23442466314373184
+"[' eggs', ' salt']",[' baking soda'],0.23424586192061228
+"[' butter', ' salt']",[' sugar'],0.23337521708857215
+[' salt'],[' eggs'],0.2332909324875703
+[' baking soda'],[' cinnamon'],0.23319651532920088
+[' lemon juice'],[' garlic'],0.23173277661795408
+[' celery'],[' garlic'],0.23073104133052005
+[' water'],[' flour'],0.2298343742827114
+"[' flour', ' butter', ' salt']",[' baking powder'],0.22796545056949147
+[' cinnamon'],[' baking soda'],0.22689781081389473
+"[' butter', ' salt']",[' vanilla'],0.22526790930699725
+"[' water', ' salt']",[' butter'],0.22497534889629597
+"[' water', ' salt']",[' garlic'],0.22472732552160526
+"[' milk', ' salt']",[' vanilla'],0.22470734343736345
+"[' sugar', ' salt']",[' baking soda'],0.22435582335685403
+[' margarine'],[' vanilla'],0.22362792556331568
+"[' vanilla', ' butter']",[' baking powder'],0.2235597674909356
+"[' garlic', ' onion']",[' tomatoes'],0.22283528352835283
+[' milk'],[' sugar'],0.22100455586028694
+"[' milk', ' butter']",['sugar'],0.22091810321513844
+"[' milk', ' flour']",['sugar'],0.22045385318306426
+[' brown sugar'],[' baking soda'],0.21960685665001617
+"[' water', ' salt']",[' sugar'],0.21931315673262475
+[' cinnamon'],[' nutmeg'],0.21795686830651867
+"[' pepper', ' salt']",[' butter'],0.21724482049794866
+[' salt'],[' onion'],0.21611753345405602
+"[' sugar', ' butter']",[' baking soda'],0.21591603053435116
+[' cream cheese'],[' salt'],0.21562317392298508
+[' sugar'],[' milk'],0.21558309473009274
+[' celery'],[' water'],0.215393889962588
+[' flour'],['sugar'],0.2149666160716636
+[' milk'],[' vanilla'],0.2141226002402593
+"[' flour', ' butter', ' salt']",['sugar'],0.21356985452426988
+[' salt'],[' garlic'],0.2133833128020268
+"[' eggs', ' flour', ' salt']",[' cinnamon'],0.2119521784995045
+[' baking soda'],['sugar'],0.21188641313452838
+"[' garlic', ' onion']",[' water'],0.21106210621062108
+[' baking powder'],['egg'],0.21062942259301168
+"[' onion', ' salt']",[' water'],0.21044681267109894
+[' margarine'],['sugar'],0.2104225889362166
+[' vanilla'],[' baking powder'],0.2103098236263401
+[' butter'],[' sugar'],0.20991024734557676
+[' lemon juice'],[' butter'],0.20914784589106092
+[' butter'],[' vanilla'],0.2088166309805893
+[' water'],[' onion'],0.20846974401101756
+[' baking powder'],['sugar'],0.20671980815023727
+[' flour'],[' baking powder'],0.2056752678171912
+"[' eggs', ' salt']",[' baking powder'],0.20527590969816362
+['sugar'],[' water'],0.2049752606760975
+[' cream cheese'],[' eggs'],0.20456296948704702
+"[' onion', ' salt']",[' butter'],0.20419925694172858
+[' pepper'],[' butter'],0.20406139034179951
+[' cream cheese'],[' vanilla'],0.20391087473852695
+[' flour'],[' baking soda'],0.20175561736139747
+[' salt'],[' sugar'],0.19988441895698145
+"[' flour', ' butter', ' salt']",[' brown sugar'],0.1972745463909692
+"[' flour', ' salt']",['sugar'],0.19706229951038326
+"[' eggs', ' butter']",[' baking soda'],0.19689137244232366
+[' water'],[' sugar'],0.19476726626961596
+"[' eggs', ' flour', ' salt']",[' brown sugar'],0.19446664322475465
+"[' flour', ' butter']",[' baking soda'],0.1943363585829987
+"[' flour', ' butter']",[' baking powder'],0.19303240151487602
+[' vanilla'],[' brown sugar'],0.19229814675427712
+"[' sugar', ' salt']",[' water'],0.19162240016913767
+[' cinnamon'],[' milk'],0.19158231046342936
+"[' vanilla', ' eggs']",[' brown sugar'],0.18951462233576086
+"[' flour', ' butter']",[' brown sugar'],0.18907896992586667
+[' water'],[' butter'],0.1886453966681566
+"[' sugar', ' flour']",[' cinnamon'],0.18668304636364227
+"[' eggs', ' flour']",[' cinnamon'],0.18668186786463264
+"[' flour', ' salt']",[' water'],0.1866655411109235
+[' water'],[' garlic'],0.18458327796368557
+"[' garlic', ' salt']",[' water'],0.1839314360406393
+[' salt'],[' milk'],0.18375061541094662
+[' onion'],[' water'],0.1830044912005345
+"[' eggs', ' flour']",[' brown sugar'],0.18135796206324883
+[' pepper'],[' water'],0.1792579465578692
+"[' milk', ' salt']",[' baking powder'],0.17885973183689427
+[' milk'],['sugar'],0.17859085654706588
+[' onion'],[' butter'],0.17858752538562286
+[' sugar'],[' water'],0.17823109322661596
+"[' eggs', ' butter']",[' brown sugar'],0.17812519620769762
+"[' eggs', ' butter']",[' baking powder'],0.1766671550058252
+"[' milk', ' salt']",[' onion'],0.17581817345507234
+[' salt'],[' water'],0.17464675939914762
+"[' vanilla', ' eggs']",[' cinnamon'],0.17456056735425324
+"[' vanilla', ' flour']",[' cinnamon'],0.1724562035037197
+[' brown sugar'],[' cinnamon'],0.17233861597249672
+"[' vanilla', ' salt']",[' cinnamon'],0.17107285700083358
+"[' garlic', ' salt']",[' tomatoes'],0.17097419444279405
+[' sugar'],[' baking powder'],0.17095968250107785
+"[' milk', ' salt']",['sugar'],0.17032726938202894
+[' eggs'],[' baking soda'],0.16870458797012955
+[' onion'],[' pepper'],0.16808861504525666
+"[' garlic', ' salt']",[' pepper'],0.1675182698591884
+[' butter'],['sugar'],0.16715705813191897
+"[' butter', ' salt']",[' onion'],0.1671521980968235
+[' flour'],[' water'],0.16691964168209375
+[' garlic'],[' water'],0.16676717210442016
+"[' sugar', ' salt']",['egg'],0.1645920875287402
+[' pepper'],[' milk'],0.16305073762307493
+"[' garlic', ' salt']",[' butter'],0.16263145386489217
+"[' flour', ' salt']",[' brown sugar'],0.16175249029208172
+"[' sugar', ' flour']",[' water'],0.16153501160228537
+[' brown sugar'],[' milk'],0.16119835651226028
+"[' onion', ' salt']",[' celery'],0.15854028157997654
+"[' water', ' salt']",[' eggs'],0.15730731305994303
+[' flour'],[' brown sugar'],0.1560468340103705
+"[' onion', ' salt']",[' olive oil'],0.15520140789988268
+"[' butter', ' salt']",['sugar'],0.15399482989059537
+[' eggs'],[' baking powder'],0.15333572001230317
+"[' eggs', ' salt']",[' cinnamon'],0.1533002739850101
+[' garlic'],[' tomatoes'],0.15323304618793335
+[' pepper'],[' olive oil'],0.15195498217934392
+[' sugar'],[' baking soda'],0.15069867450832994
+"[' onion', ' salt']",[' milk'],0.14948670316777474
+[' water'],['sugar'],0.1491386496248958
+"[' butter', ' salt']",[' water'],0.14882071885329215
+[' onion'],[' celery'],0.14848799783658817
+[' garlic'],[' butter'],0.1477648227329657
+"[' flour', ' salt']",[' cinnamon'],0.14681749113624853
+[' brown sugar'],[' water'],0.14675195553479234
+"[' onion', ' salt']",[' tomatoes'],0.14671001173249903
+[' brown sugar'],[' sugar'],0.14632670907152526
+"[' eggs', ' salt']",[' brown sugar'],0.14624459389081357
+[' olive oil'],[' tomatoes'],0.14583488701618316
+"[' sugar', ' salt']",[' cinnamon'],0.1450514019926531
+"[' onion', ' salt']",[' flour'],0.14241298396558466
+"[' butter', ' salt']",[' baking soda'],0.1421900135255184
+"[' butter', ' salt']",[' brown sugar'],0.13863656371799693
+[' vanilla'],[' cinnamon'],0.13845840877189414
+[' milk'],[' onion'],0.13820292844352774
+[' salt'],[' vanilla'],0.13815104139153658
+[' water'],[' eggs'],0.1379882092851879
+"[' garlic', ' salt']",[' parsley'],0.13705365100112887
+"[' flour', ' salt']",['egg'],0.1367786594631099
+[' flour'],[' cinnamon'],0.13554708406081928
+[' onion'],[' tomatoes'],0.1353351962712961
+[' onion'],[' olive oil'],0.13532724255134126
+[' butter'],[' onion'],0.13491941088929438
+"[' butter', ' salt']",[' baking powder'],0.13455890003121274
+[' olive oil'],[' water'],0.13449921694384367
+"[' flour', ' butter']",[' water'],0.13447901460328016
+[' salt'],[' olive oil'],0.13331227377704902
+[' sugar'],['egg'],0.1323142487590789
+"[' eggs', ' flour']",[' soda'],0.1322922604634622
+"[' flour', ' butter']",['egg'],0.13212046277488299
+"[' butter', ' salt']",[' garlic'],0.1314416281842992
+[' olive oil'],[' parsley'],0.13132504288164665
+"[' eggs', ' flour']",[' nuts'],0.13078085695010278
+[' onion'],[' milk'],0.12932483522543495
+['sugar'],[' cinnamon'],0.1285075048150362
+[' butter'],[' brown sugar'],0.12826958244285053
+[' eggs'],[' brown sugar'],0.12688644282307146
+[' eggs'],[' cinnamon'],0.12585277552275834
+[' butter'],[' water'],0.12510891097041427
+[' flour'],['egg'],0.12456241171464419
+[' salt'],[' pepper'],0.12386505543452767
+"[' onion', ' salt']",[' eggs'],0.12372409073132577
+[' sugar'],[' cinnamon'],0.12248084725339112
+[' garlic'],[' parsley'],0.12126140236465192
+[' garlic'],[' pepper'],0.12092850652557705
+"[' eggs', ' flour']",[' water'],0.12048866970341975
+[' olive oil'],[' butter'],0.12029234096502349
+"[' eggs', ' flour']",['baking powder'],0.11948978364441748
+"[' eggs', ' salt']",[' water'],0.11776373887643503
+[' vanilla'],[' water'],0.1166629371198405
+[' eggs'],[' water'],0.1151883543512351
+[' milk'],[' baking powder'],0.11469548267186473
+"[' eggs', ' salt']",[' onion'],0.11461630776894685
+"[' flour', ' salt']",[' shortening'],0.1121222353537059
+[' salt'],['sugar'],0.11177870139310021
+"[' onion', ' salt']",[' ground beef'],0.11163961673836527
+[' vanilla'],[' cocoa'],0.11103606810830605
+"[' garlic', ' salt']",[' thyme'],0.11058463549402887
+[' vanilla'],['egg'],0.11043798441727526
+"[' onion', ' salt']",[' parsley'],0.10937622213531482
+[' butter'],[' garlic'],0.10846631321092574
+[' water'],[' milk'],0.10772920014013554
+[' onion'],[' flour'],0.10724795987083159
+[' olive oil'],[' pepper'],0.10711089566708927
+[' onion'],[' eggs'],0.106465844075274
+[' vanilla'],[' nuts'],0.10635311349350042
+['sugar'],[' baking soda'],0.1049968453211131
+"[' butter', ' salt']",[' pepper'],0.10192158400627456
+['sugar'],[' baking powder'],0.1016180181975161
+[' onion'],[' ground beef'],0.10149742034349465
+[' eggs'],[' onion'],0.1012414092162785
+[' vanilla'],[' pecans'],0.10114124132880363
+[' milk'],[' water'],0.10106190076837644
+[' vanilla'],[' margarine'],0.10018105254592428
+[' onion'],[' green pepper'],0.09981653419304208
+[' onion'],[' cheddar cheese'],0.09931014735591837
+"[' flour', ' salt']",[' onion'],0.09836906972817828
+[' vanilla'],[' cream cheese'],0.09796366743291901
+[' garlic'],[' thyme'],0.09783044687173414
+[' butter'],[' baking soda'],0.09765233014395276
+['sugar'],[' margarine'],0.09617204622434748
+[' salt'],[' baking soda'],0.09511981760592993
+[' salt'],[' baking powder'],0.09445844893198467
+"[' flour', ' salt']",[' soda'],0.09387810231301705
+[' garlic'],[' chicken'],0.09378112371446269
+[' butter'],[' baking powder'],0.09326384396137491
+[' flour'],[' margarine'],0.0911982242031287
+[' garlic'],[' parmesan cheese'],0.09112614296511962
+[' salt'],[' brown sugar'],0.09092762767267956
+[' onion'],[' parsley'],0.09090571660365553
+"[' butter', ' salt']",['egg'],0.08990468110989283
+[' flour'],[' shortening'],0.08977688481009326
+[' flour'],[' onion'],0.0887284276652307
+[' garlic'],[' onions'],0.08800183365576933
+[' water'],[' olive oil'],0.08714981214588594
+"[' flour', ' salt']",['baking powder'],0.08687827114637853
+[' water'],[' vanilla'],0.08660014255167499
+[' milk'],['egg'],0.0864338493619529
+[' milk'],[' margarine'],0.0857057050250459
+[' garlic'],[' red pepper'],0.08509854535432942
+[' onion'],[' chicken'],0.0844950183200683
+[' garlic'],[' flour'],0.08380243450547231
+"[' flour', ' salt']",[' nuts'],0.08363329393888232
+[' garlic'],[' lemon juice'],0.08329217612918541
+[' flour'],[' nuts'],0.08214157242250629
+[' water'],[' pepper'],0.0818735880739819
+[' flour'],[' soda'],0.08157347535028997
+[' onion'],['potatoes'],0.08056588066238579
+[' garlic'],[' kosher salt'],0.08029065626867422
+[' eggs'],[' margarine'],0.08028569555724752
+[' eggs'],[' nuts'],0.07926967623523243
+[' garlic'],[' soy sauce'],0.0786643782351609
+[' onion'],[' carrots'],0.07822748699566788
+[' milk'],[' cheddar cheese'],0.07815510324350053
+[' sugar'],[' onion'],0.07799009474114772
+[' garlic'],[' vegetable oil'],0.07658787222257088
+[' butter'],[' cinnamon'],0.07631078734369398
+[' milk'],[' brown sugar'],0.07625399487749042
+[' eggs'],[' pecans'],0.07569722119975998
+[' garlic'],[' black pepper'],0.07549641045511227
+[' garlic'],[' chicken broth'],0.07509802690998987
+[' onion'],[' sugar'],0.07481534113504887
+[' flour'],['baking powder'],0.07459180360950016
+[' sugar'],['buttermilk'],0.07444697480570879
+[' water'],[' brown sugar'],0.07400002416130085
+[' butter'],['egg'],0.07356072274822187
+[' water'],[' celery'],0.07337787066455657
+[' onion'],[' chicken broth'],0.07317422358437041
+[' sugar'],['oil'],0.07227743568767481
+[' salt'],[' tomatoes'],0.07184936007826548
+[' garlic'],[' basil'],0.07170630946761224
+[' garlic'],[' celery'],0.07101595989969467
+[' onion'],[' worcestershire sauce'],0.07061577699890238
+[' eggs'],['baking powder'],0.07015071373466517
+[' sugar'],[' egg'],0.07012724277833667
+[' salt'],[' cinnamon'],0.07010930543611242
+[' eggs'],[' soda'],0.07007003726244561
+[' milk'],[' pepper'],0.06986219089281262
+[' garlic'],[' paprika'],0.06773338863406289
+[' sugar'],[' brown sugar'],0.06752103209259648
+[' flour'],[' garlic'],0.0673644682699141
+[' salt'],[' parsley'],0.06669892511742992
+[' milk'],[' cinnamon'],0.0665982909857431
+[' onion'],[' mushrooms'],0.06618025250409616
+[' garlic'],[' carrots'],0.06599796442380369
+[' flour'],['buttermilk'],0.0657347535028997
+[' salt'],['egg'],0.06571004160494949
+[' flour'],[' egg'],0.06568649815313615
+[' salt'],[' celery'],0.06546387722630853
+[' salt'],[' lemon juice'],0.06475707907476001
+[' flour'],[' vegetable oil'],0.0641423269607026
+[' garlic'],[' oregano'],0.06352853217492858
+[' eggs'],['oil'],0.06351003161509255
+[' butter'],[' cream cheese'],0.062456310426810824
+[' flour'],[' pecans'],0.062396360669257835
+[' butter'],[' pecans'],0.06226803215151994
+[' salt'],[' onions'],0.062132734368561954
+[' onion'],[' tomato sauce'],0.061911756128341225
+[' eggs'],[' vegetable oil'],0.061868769633375856
+[' onion'],[' mayonnaise'],0.0618454751287177
+[' butter'],[' pepper'],0.06181135718592079
+[' onion'],[' parmesan cheese'],0.06103949817329565
+[' eggs'],[' cream cheese'],0.06089813082698426
+[' salt'],[' vegetable oil'],0.06070012107484031
+[' onion'],[' thyme'],0.05989416249980116
+[' flour'],['oil'],0.05903384016073418
+[' eggs'],[' shortening'],0.05800890466562123
+[' eggs'],[' nutmeg'],0.05778200208750372
+[' eggs'],['buttermilk'],0.05654412246688483
+[' flour'],[' nutmeg'],0.05553752072786615
+[' butter'],[' lemon juice'],0.055181558343231296
+[' salt'],[' chicken'],0.05266755553489512
+[' butter'],[' parsley'],0.05214106449332113
+[' butter'],[' powdered sugar'],0.05206695495943004
+[' flour'],[' unsalted butter'],0.05189204839572896
+[' butter'],[' olive oil'],0.05169240136922371
+[' flour'],[' cocoa'],0.05034568377830615
+[' salt'],['potatoes'],0.050240776231297316
+[' butter'],[' cheddar cheese'],0.0496253462617749
+[' salt'],[' carrots'],0.04624720820012636
+[' butter'],[' nuts'],0.0453770673054775
+[' butter'],[' parmesan cheese'],0.04475214366834181
+[' salt'],[' cheddar cheese'],0.04463393349547079
+[' salt'],[' egg'],0.04421872920016651
+[' salt'],[' margarine'],0.04410462725641876
+[' salt'],[' thyme'],0.04384578488402805
+[' salt'],[' parmesan cheese'],0.043623919993407444
+[' salt'],[' black pepper'],0.04266884446425968
+[' salt'],['oil'],0.04159438449396845
+[' salt'],[' shortening'],0.04129222564293276
+[' salt'],[' paprika'],0.04089709483773225
+[' salt'],[' chicken broth'],0.03694684328520626
+[' salt'],[' ground beef'],0.03686021032791631
+[' salt'],[' nuts'],0.036112208696681115
+[' salt'],[' mustard'],0.036109039198243674
+[' salt'],[' worcestershire sauce'],0.03539061955242456
+[' salt'],[' mayonnaise'],0.03538533705502883
+[' salt'],[' unsalted butter'],0.0340868991951587
+[' salt'],[' nutmeg'],0.0332395866128838
+[' salt'],[' soda'],0.03313499316444837
+[' salt'],['baking powder'],0.03271028037383177
+[' salt'],[' green pepper'],0.03191684926499331
+[' salt'],[' all-purpose'],0.03084450229366037
+[' salt'],[' mushrooms'],0.030658558385330718
+[' salt'],[' honey'],0.030139817141070148
+[' salt'],[' pecans'],0.029999302710343765
+[' salt'],['pepper'],0.029994020212948034
+[' salt'],[' red pepper'],0.029688691863474913
+[' salt'],[' basil'],0.029672844371287727
+[' salt'],['sour cream'],0.029252357578587712
+[' salt'],[' cornstarch'],0.028975554715051526
+[' salt'],['buttermilk'],0.028830814286408556
+[' salt'],[' chili powder'],0.028631135884850008
+[' salt'],[' ground cinnamon'],0.028000405695799993
+[' salt'],[' walnuts'],0.027208031086440675
+[' salt'],[' cream cheese'],0.026899533238530112
+[' salt'],[' lemon'],0.02666921635207634
+[' salt'],[' clove garlic'],0.026306837030729342
+[' salt'],[' raisins'],0.026229712568751704
+[' salt'],['tomatoes'],0.025791265284906214
+[' salt'],[' oregano'],0.024680884332324023
+[' salt'],[' rice'],0.024190668574000394
+[' salt'],[' white wine'],0.023944504195359432
+[' salt'],[' tomato sauce'],0.02359902886567877

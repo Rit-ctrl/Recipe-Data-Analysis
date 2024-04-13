@@ -1,0 +1,9 @@
+recipes_data.csv
+project-q1-kmeans
+project-q1-vectors
+project-q2-itemsetassociationRules
+project-q2-itemsetfreqItemsets
+target
+spark-warehouse
+.metals
+.vscode

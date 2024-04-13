@@ -1,0 +1,215 @@
+2024-04-12 20:08:37 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-04-12 20:08:37 INFO  kmeans$:36 - Input: project-q1-vectors/part-00000
+2024-04-12 20:08:37 INFO  kmeans$:37 - Output path: project-q1-kmeans
+2024-04-12 20:08:37 INFO  kmeans$:38 - Number of clusters: 1
+2024-04-12 20:08:37 INFO  SparkContext:54 - Running Spark version 2.3.1
+2024-04-12 20:08:37 INFO  SparkContext:54 - Submitted application: KMeansproject-q1-vectors/part-00000
+2024-04-12 20:08:37 INFO  SecurityManager:54 - Changing view acls to: rithickumar
+2024-04-12 20:08:37 INFO  SecurityManager:54 - Changing modify acls to: rithickumar
+2024-04-12 20:08:37 INFO  SecurityManager:54 - Changing view acls groups to: 
+2024-04-12 20:08:37 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2024-04-12 20:08:37 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(rithickumar); groups with view permissions: Set(); users  with modify permissions: Set(rithickumar); groups with modify permissions: Set()
+2024-04-12 20:08:42 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 53117.
+2024-04-12 20:08:42 INFO  SparkEnv:54 - Registering MapOutputTracker
+2024-04-12 20:08:42 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2024-04-12 20:08:42 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2024-04-12 20:08:42 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2024-04-12 20:08:42 INFO  DiskBlockManager:54 - Created local directory at /private/var/folders/jp/l319lw651tb48gz1j9rnkrjm0000gn/T/blockmgr-9d0ab515-f15b-4f6c-b943-86a457ebc30c
+2024-04-12 20:08:42 INFO  MemoryStore:54 - MemoryStore started with capacity 366.3 MB
+2024-04-12 20:08:42 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2024-04-12 20:08:43 INFO  log:192 - Logging initialized @17425ms
+2024-04-12 20:08:43 INFO  Server:346 - jetty-9.3.z-SNAPSHOT
+2024-04-12 20:08:43 INFO  Server:414 - Started @17514ms
+2024-04-12 20:08:43 INFO  AbstractConnector:278 - Started ServerConnector@20da1917{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2024-04-12 20:08:43 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4040.
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4837595f{/jobs,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5dda14d0{/jobs/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1db0ec27{/jobs/job,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@d4ab71a{/jobs/job/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3b4ef7{/stages,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1af05b03{/stages/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5987e932{/stages/stage,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@438bad7c{/stages/stage/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@25230246{/stages/pool,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4fdf8f12{/stages/pool/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4a8b5227{/storage,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@54f5f647{/storage/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6979efad{/storage/rdd,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5a6d5a8f{/storage/rdd/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4a67318f{/environment,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@315ba14a{/environment/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@17f9344b{/executors,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@27f0ad19{/executors/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@54e81b21{/executors/threadDump,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@38d5b107{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6650813a{/static,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77e2a6e2{/,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5710768a{/api,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30272916{/jobs/job/kill,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bb3d42d{/stages/stage/kill,null,AVAILABLE,@Spark}
+2024-04-12 20:08:43 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://10.0.0.154:4040
+2024-04-12 20:08:43 INFO  SparkContext:54 - Added JAR file:/Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/target/assignments-1.0.jar at spark://10.0.0.154:53117/jars/assignments-1.0.jar with timestamp 1712966923393
+2024-04-12 20:08:43 INFO  Executor:54 - Starting executor ID driver on host localhost
+2024-04-12 20:08:43 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 53118.
+2024-04-12 20:08:43 INFO  NettyBlockTransferService:54 - Server created on 10.0.0.154:53118
+2024-04-12 20:08:43 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2024-04-12 20:08:43 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, 10.0.0.154, 53118, None)
+2024-04-12 20:08:43 INFO  BlockManagerMasterEndpoint:54 - Registering block manager 10.0.0.154:53118 with 366.3 MB RAM, BlockManagerId(driver, 10.0.0.154, 53118, None)
+2024-04-12 20:08:43 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, 10.0.0.154, 53118, None)
+2024-04-12 20:08:43 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, 10.0.0.154, 53118, None)
+2024-04-12 20:08:43 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5eb97ced{/metrics/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:44 WARN  SparkContext:66 - Using an existing SparkContext; some configuration may not take effect.
+2024-04-12 20:08:44 INFO  SharedState:54 - Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir ('file:/Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/spark-warehouse/').
+2024-04-12 20:08:44 INFO  SharedState:54 - Warehouse path is 'file:/Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/spark-warehouse/'.
+2024-04-12 20:08:44 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@280d9edc{/SQL,null,AVAILABLE,@Spark}
+2024-04-12 20:08:44 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@28fd3dc1{/SQL/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:44 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@15e0fe05{/SQL/execution,null,AVAILABLE,@Spark}
+2024-04-12 20:08:44 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1128620c{/SQL/execution/json,null,AVAILABLE,@Spark}
+2024-04-12 20:08:44 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@bdd2027{/static/sql,null,AVAILABLE,@Spark}
+2024-04-12 20:08:44 INFO  StateStoreCoordinatorRef:54 - Registered StateStoreCoordinator endpoint
+2024-04-12 20:08:47 INFO  FileSourceStrategy:54 - Pruning directories with: 
+2024-04-12 20:08:47 INFO  FileSourceStrategy:54 - Post-Scan Filters: (length(trim(value#0, None)) > 0)
+2024-04-12 20:08:47 INFO  FileSourceStrategy:54 - Output Data Schema: struct<value: string>
+2024-04-12 20:08:47 INFO  FileSourceScanExec:54 - Pushed Filters: 
+2024-04-12 20:08:47 INFO  CodeGenerator:54 - Code generated in 294.95575 ms
+2024-04-12 20:08:47 INFO  CodeGenerator:54 - Code generated in 74.721208 ms
+2024-04-12 20:08:48 INFO  MemoryStore:54 - Block broadcast_0 stored as values in memory (estimated size 277.7 KB, free 366.0 MB)
+2024-04-12 20:08:48 INFO  MemoryStore:54 - Block broadcast_0_piece0 stored as bytes in memory (estimated size 23.5 KB, free 366.0 MB)
+2024-04-12 20:08:48 INFO  BlockManagerInfo:54 - Added broadcast_0_piece0 in memory on 10.0.0.154:53118 (size: 23.5 KB, free: 366.3 MB)
+2024-04-12 20:08:48 INFO  SparkContext:54 - Created broadcast 0 from csv at kmeans.scala:55
+2024-04-12 20:08:48 INFO  FileSourceScanExec:54 - Planning scan with bin packing, max size: 57073876 bytes, open cost is considered as scanning 4194304 bytes.
+2024-04-12 20:08:48 INFO  SparkContext:54 - Starting job: csv at kmeans.scala:55
+2024-04-12 20:08:48 INFO  DAGScheduler:54 - Got job 0 (csv at kmeans.scala:55) with 1 output partitions
+2024-04-12 20:08:48 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (csv at kmeans.scala:55)
+2024-04-12 20:08:48 INFO  DAGScheduler:54 - Parents of final stage: List()
+2024-04-12 20:08:48 INFO  DAGScheduler:54 - Missing parents: List()
+2024-04-12 20:08:48 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[3] at csv at kmeans.scala:55), which has no missing parents
+2024-04-12 20:08:48 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 9.4 KB, free 366.0 MB)
+2024-04-12 20:08:48 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 4.5 KB, free 366.0 MB)
+2024-04-12 20:08:48 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on 10.0.0.154:53118 (size: 4.5 KB, free: 366.3 MB)
+2024-04-12 20:08:48 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+2024-04-12 20:08:48 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at csv at kmeans.scala:55) (first 15 tasks are for partitions Vector(0))
+2024-04-12 20:08:48 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
+2024-04-12 20:08:48 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:48 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
+2024-04-12 20:08:48 INFO  Executor:54 - Fetching spark://10.0.0.154:53117/jars/assignments-1.0.jar with timestamp 1712966923393
+2024-04-12 20:08:48 INFO  TransportClientFactory:267 - Successfully created connection to /10.0.0.154:53117 after 42 ms (0 ms spent in bootstraps)
+2024-04-12 20:08:48 INFO  Utils:54 - Fetching spark://10.0.0.154:53117/jars/assignments-1.0.jar to /private/var/folders/jp/l319lw651tb48gz1j9rnkrjm0000gn/T/spark-cf7fb7ed-4d1d-4227-9468-a33bb640d94c/userFiles-1718c56c-8583-4003-ae2d-8585cd213182/fetchFileTemp1267142280643149507.tmp
+2024-04-12 20:08:49 INFO  Executor:54 - Adding file:/private/var/folders/jp/l319lw651tb48gz1j9rnkrjm0000gn/T/spark-cf7fb7ed-4d1d-4227-9468-a33bb640d94c/userFiles-1718c56c-8583-4003-ae2d-8585cd213182/assignments-1.0.jar to class loader
+2024-04-12 20:08:49 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 0-57073876, partition values: [empty row]
+2024-04-12 20:08:49 INFO  CodeGenerator:54 - Code generated in 25.849 ms
+2024-04-12 20:08:49 INFO  Executor:54 - Finished task 0.0 in stage 0.0 (TID 0). 1509 bytes result sent to driver
+2024-04-12 20:08:49 INFO  TaskSetManager:54 - Finished task 0.0 in stage 0.0 (TID 0) in 1351 ms on localhost (executor driver) (1/1)
+2024-04-12 20:08:49 INFO  TaskSchedulerImpl:54 - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2024-04-12 20:08:49 INFO  DAGScheduler:54 - ResultStage 0 (csv at kmeans.scala:55) finished in 1.482 s
+2024-04-12 20:08:49 INFO  DAGScheduler:54 - Job 0 finished: csv at kmeans.scala:55, took 1.533649 s
+2024-04-12 20:08:50 INFO  FileSourceStrategy:54 - Pruning directories with: 
+2024-04-12 20:08:50 INFO  FileSourceStrategy:54 - Post-Scan Filters: 
+2024-04-12 20:08:50 INFO  FileSourceStrategy:54 - Output Data Schema: struct<value: string>
+2024-04-12 20:08:50 INFO  FileSourceScanExec:54 - Pushed Filters: 
+2024-04-12 20:08:50 INFO  CodeGenerator:54 - Code generated in 19.819417 ms
+2024-04-12 20:08:50 INFO  MemoryStore:54 - Block broadcast_2 stored as values in memory (estimated size 277.7 KB, free 365.7 MB)
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 7
+2024-04-12 20:08:50 INFO  MemoryStore:54 - Block broadcast_2_piece0 stored as bytes in memory (estimated size 23.5 KB, free 365.7 MB)
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 18
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 17
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 12
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 16
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 23
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 20
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 9
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 19
+2024-04-12 20:08:50 INFO  BlockManagerInfo:54 - Added broadcast_2_piece0 in memory on 10.0.0.154:53118 (size: 23.5 KB, free: 366.2 MB)
+2024-04-12 20:08:50 INFO  SparkContext:54 - Created broadcast 2 from csv at kmeans.scala:55
+2024-04-12 20:08:50 INFO  FileSourceScanExec:54 - Planning scan with bin packing, max size: 57073876 bytes, open cost is considered as scanning 4194304 bytes.
+2024-04-12 20:08:50 INFO  BlockManagerInfo:54 - Removed broadcast_1_piece0 on 10.0.0.154:53118 in memory (size: 4.5 KB, free: 366.3 MB)
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 15
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 24
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 6
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 22
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 11
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 26
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 14
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 27
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 10
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 21
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 8
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 13
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 25
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 29
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 28
+2024-04-12 20:08:50 INFO  ContextCleaner:54 - Cleaned accumulator 30
+2024-04-12 20:08:50 INFO  SparkContext:54 - Starting job: csv at kmeans.scala:55
+2024-04-12 20:08:50 INFO  DAGScheduler:54 - Got job 1 (csv at kmeans.scala:55) with 8 output partitions
+2024-04-12 20:08:50 INFO  DAGScheduler:54 - Final stage: ResultStage 1 (csv at kmeans.scala:55)
+2024-04-12 20:08:50 INFO  DAGScheduler:54 - Parents of final stage: List()
+2024-04-12 20:08:50 INFO  DAGScheduler:54 - Missing parents: List()
+2024-04-12 20:08:50 INFO  DAGScheduler:54 - Submitting ResultStage 1 (MapPartitionsRDD[8] at csv at kmeans.scala:55), which has no missing parents
+2024-04-12 20:08:50 INFO  MemoryStore:54 - Block broadcast_3 stored as values in memory (estimated size 14.8 KB, free 365.7 MB)
+2024-04-12 20:08:50 INFO  MemoryStore:54 - Block broadcast_3_piece0 stored as bytes in memory (estimated size 8.7 KB, free 365.7 MB)
+2024-04-12 20:08:50 INFO  BlockManagerInfo:54 - Added broadcast_3_piece0 in memory on 10.0.0.154:53118 (size: 8.7 KB, free: 366.2 MB)
+2024-04-12 20:08:50 INFO  SparkContext:54 - Created broadcast 3 from broadcast at DAGScheduler.scala:1039
+2024-04-12 20:08:50 INFO  DAGScheduler:54 - Submitting 8 missing tasks from ResultStage 1 (MapPartitionsRDD[8] at csv at kmeans.scala:55) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+2024-04-12 20:08:50 INFO  TaskSchedulerImpl:54 - Adding task set 1.0 with 8 tasks
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 0.0 in stage 1.0 (TID 1, localhost, executor driver, partition 0, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 1.0 in stage 1.0 (TID 2, localhost, executor driver, partition 1, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 2.0 in stage 1.0 (TID 3, localhost, executor driver, partition 2, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 3.0 in stage 1.0 (TID 4, localhost, executor driver, partition 3, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 4.0 in stage 1.0 (TID 5, localhost, executor driver, partition 4, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 5.0 in stage 1.0 (TID 6, localhost, executor driver, partition 5, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 6.0 in stage 1.0 (TID 7, localhost, executor driver, partition 6, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  TaskSetManager:54 - Starting task 7.0 in stage 1.0 (TID 8, localhost, executor driver, partition 7, PROCESS_LOCAL, 8372 bytes)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 0.0 in stage 1.0 (TID 1)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 1.0 in stage 1.0 (TID 2)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 2.0 in stage 1.0 (TID 3)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 3.0 in stage 1.0 (TID 4)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 4.0 in stage 1.0 (TID 5)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 5.0 in stage 1.0 (TID 6)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 6.0 in stage 1.0 (TID 7)
+2024-04-12 20:08:50 INFO  Executor:54 - Running task 7.0 in stage 1.0 (TID 8)
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 57073876-114147752, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 0-57073876, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 114147752-171221628, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 342443256-399517132, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 399517132-452396709, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 171221628-228295504, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 228295504-285369380, partition values: [empty row]
+2024-04-12 20:08:50 INFO  FileScanRDD:54 - Reading File path: file:///Users/rithickumar/Desktop/Waterloo_MS/Winter_2024/CS_651/bigdata2024w/project-q1-vectors/part-00000, range: 285369380-342443256, partition values: [empty row]
+2024-04-12 20:08:51 INFO  ContextCleaner:54 - Cleaned accumulator 0
+2024-04-12 20:08:51 INFO  ContextCleaner:54 - Cleaned accumulator 3
+2024-04-12 20:08:51 INFO  ContextCleaner:54 - Cleaned accumulator 1
+2024-04-12 20:08:51 INFO  ContextCleaner:54 - Cleaned accumulator 4
+2024-04-12 20:08:51 INFO  ContextCleaner:54 - Cleaned accumulator 5
+2024-04-12 20:08:51 INFO  ContextCleaner:54 - Cleaned accumulator 2
+2024-04-12 20:08:51 INFO  BlockManagerInfo:54 - Removed broadcast_0_piece0 on 10.0.0.154:53118 in memory (size: 23.5 KB, free: 366.3 MB)
+2024-04-12 20:08:53 INFO  Executor:54 - Finished task 7.0 in stage 1.0 (TID 8). 1599 bytes result sent to driver
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 7.0 in stage 1.0 (TID 8) in 3713 ms on localhost (executor driver) (1/8)
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 3.0 in stage 1.0 (TID 4). 1599 bytes result sent to driver
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 5.0 in stage 1.0 (TID 6). 1556 bytes result sent to driver
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 1.0 in stage 1.0 (TID 2). 1556 bytes result sent to driver
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 2.0 in stage 1.0 (TID 3). 1556 bytes result sent to driver
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 1.0 in stage 1.0 (TID 2) in 3754 ms on localhost (executor driver) (2/8)
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 3.0 in stage 1.0 (TID 4) in 3752 ms on localhost (executor driver) (3/8)
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 5.0 in stage 1.0 (TID 6) in 3748 ms on localhost (executor driver) (4/8)
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 2.0 in stage 1.0 (TID 3) in 3753 ms on localhost (executor driver) (5/8)
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 4.0 in stage 1.0 (TID 5). 1599 bytes result sent to driver
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 6.0 in stage 1.0 (TID 7). 1599 bytes result sent to driver
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 6.0 in stage 1.0 (TID 7) in 3777 ms on localhost (executor driver) (6/8)
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 4.0 in stage 1.0 (TID 5) in 3779 ms on localhost (executor driver) (7/8)
+2024-04-12 20:08:54 INFO  Executor:54 - Finished task 0.0 in stage 1.0 (TID 1). 1556 bytes result sent to driver
+2024-04-12 20:08:54 INFO  TaskSetManager:54 - Finished task 0.0 in stage 1.0 (TID 1) in 3858 ms on localhost (executor driver) (8/8)
+2024-04-12 20:08:54 INFO  TaskSchedulerImpl:54 - Removed TaskSet 1.0, whose tasks have all completed, from pool 
+2024-04-12 20:08:54 INFO  DAGScheduler:54 - ResultStage 1 (csv at kmeans.scala:55) finished in 3.885 s
+2024-04-12 20:08:54 INFO  DAGScheduler:54 - Job 1 finished: csv at kmeans.scala:55, took 3.904425 s
+2024-04-12 20:08:54 INFO  SparkContext:54 - Invoking stop() from shutdown hook
+2024-04-12 20:08:54 INFO  AbstractConnector:318 - Stopped Spark@20da1917{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2024-04-12 20:08:54 INFO  SparkUI:54 - Stopped Spark web UI at http://10.0.0.154:4040
+2024-04-12 20:08:54 INFO  MapOutputTrackerMasterEndpoint:54 - MapOutputTrackerMasterEndpoint stopped!
+2024-04-12 20:08:54 INFO  MemoryStore:54 - MemoryStore cleared
+2024-04-12 20:08:54 INFO  BlockManager:54 - BlockManager stopped
+2024-04-12 20:08:54 INFO  BlockManagerMaster:54 - BlockManagerMaster stopped
+2024-04-12 20:08:54 INFO  OutputCommitCoordinator$OutputCommitCoordinatorEndpoint:54 - OutputCommitCoordinator stopped!
+2024-04-12 20:08:54 INFO  SparkContext:54 - Successfully stopped SparkContext
+2024-04-12 20:08:54 INFO  ShutdownHookManager:54 - Shutdown hook called
+2024-04-12 20:08:54 INFO  ShutdownHookManager:54 - Deleting directory /private/var/folders/jp/l319lw651tb48gz1j9rnkrjm0000gn/T/spark-cf7fb7ed-4d1d-4227-9468-a33bb640d94c
+2024-04-12 20:08:54 INFO  ShutdownHookManager:54 - Deleting directory /private/var/folders/jp/l319lw651tb48gz1j9rnkrjm0000gn/T/spark-440236e2-11e2-423e-87b6-2adb93c18658
