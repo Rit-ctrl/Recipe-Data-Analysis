@@ -41,7 +41,7 @@ submit_button = st.button("Submit")
 
 # Display the selected options
 if submit_button and selected_ingredients and selected_options:
-    st.write("Selected Options:")
+    st.write("Recommended recipes:")
     matched_cluster = df[df['title'].apply(lambda x:x in selected_options)]['cluster'].mode().values[0]
 
     # st.write(matched_cluster)
