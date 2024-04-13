@@ -1,7 +1,7 @@
 import streamlit as st
 # from streamlit_option_menu import option_menu
 import pandas as pd
-import dask.dataframe as dd
+# import dask.dataframe as dd
 import ast
 
 
@@ -16,7 +16,7 @@ def load_data():
         lines = file.readlines()
     master_ingredients = [line.strip() for line in lines]
     df = pd.read_csv("project-data/transformed_sample.csv")
-    return df,dd.read_csv("project-data/dishes.csv"),master_ingredients
+    return df,pd.read_csv("project-data/dishes.csv"),master_ingredients
 
 with st.spinner("Loading data..."):
     df,dishes,master_ingredients = load_data()
@@ -26,7 +26,7 @@ with st.spinner("Loading data..."):
 # def get_options(df):
 #     return df['title'].unique().tolist()
 
-options = dishes["title"].unique().compute().tolist()
+options = dishes["title"].unique().tolist()
 
 # print(options[:5])
 # options = get_options()
